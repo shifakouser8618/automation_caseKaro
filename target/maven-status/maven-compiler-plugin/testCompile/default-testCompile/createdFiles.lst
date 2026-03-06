@@ -1,0 +1,6 @@
+pages\ProductPage.class
+pages\CartPage.class
+pages\HomePage.class
+pages\SearchPage.class
+runner\TestRunner.class
+stepdefs\CaseKaroSteps.class
