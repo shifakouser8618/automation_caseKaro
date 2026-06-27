@@ -87,4 +87,3 @@ Feature: CaseKaro Shopping Flow
 
  Author
 Name:Shifa Kouser
-Assignment: CaseKaro QA Automation
